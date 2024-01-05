@@ -18,9 +18,7 @@
 - 🌟 Implemented solutions in PHP within the Laravel framework.
 
 ## Connect with Me
-- [GitHub](link)
-- [LinkedIn](link)
-- 📧 Email: your.email@example.com
+- 📧 Email: hasanhamui1@gmail.com
 - 📱 [WhatsApp](https://wa.me/905364936310) <i class="fab fa-whatsapp"></i> +905364936310
 
 Feel free to customize the provided template further! The WhatsApp icon will appear as `<i class="fab fa-whatsapp"></i>`. Make sure to check if the Font Awesome library is included in your profile for the icon to display correctly.
